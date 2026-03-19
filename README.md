@@ -4,11 +4,11 @@
 
 ## AIM
 To develop a neural network regression model for the given dataset.
-
+## Problem Statement
+The problem is to develop a neural network regression model that can predict continuous values from input features. The model should be trained using the given dataset and evaluated using metrics like MSE, MAE, and R² score to ensure accurate predictions.
 ## THEORY
 The objective of this experiment is to design, implement, and evaluate a Deep Learning–based Neural Network regression model to predict a continuous output variable from a given set of input features. The task is to preprocess the data, construct a neural network regression architecture, train the model using backpropagation and gradient descent, and evaluate its performance using appropriate regression metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R² score.
 ## Neural Network Model
-Include the neural network model diagram.
 <img width="842" height="592" alt="image" src="https://github.com/user-attachments/assets/4b9505a5-0e32-4224-933d-e3c7691bc7af" />
 
 ## DESIGN STEPS
